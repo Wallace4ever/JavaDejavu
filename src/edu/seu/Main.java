@@ -12,6 +12,7 @@ public class Main {
 //        EnumTest et=new EnumTest();
 //        et.work();
 //        ArrayTest at=new ArrayTest();
-        System.out.println("3.0/0.0="+3.0/0.0);
+//        System.out.println("3.0/0.0="+3.0/0.0);
+        OverrideDemo.work();
     }
 }
