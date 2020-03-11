@@ -1,4 +1,4 @@
-package com.company;
+package edu.seu;
 import java.util.Scanner;
 public class ScannerTest {
     public void work(){

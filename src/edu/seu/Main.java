@@ -1,4 +1,4 @@
-package com.company;
+package edu.seu;
 
 public class Main {
 
@@ -11,8 +11,7 @@ public class Main {
 //        wct.work();
 //        EnumTest et=new EnumTest();
 //        et.work();
-        ArrayTest at=new ArrayTest();
-//        at.work();
-        System.out.println("hello world");
+//        ArrayTest at=new ArrayTest();
+        System.out.println("3.0/0.0="+3.0/0.0);
     }
 }

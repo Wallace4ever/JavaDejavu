@@ -1,4 +1,4 @@
-package com.company;
+package edu.seu;
 
 public class StringBufferTest {
     String str1;
