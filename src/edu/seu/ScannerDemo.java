@@ -1,6 +1,7 @@
 package edu.seu;
 import java.util.Scanner;
-public class ScannerTest {
+
+public class ScannerDemo {
     public void work(){
         double d;
         Scanner keyin=new Scanner(System.in);

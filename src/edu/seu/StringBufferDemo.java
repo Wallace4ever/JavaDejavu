@@ -1,6 +1,6 @@
 package edu.seu;
 
-public class StringBufferTest {
+public class StringBufferDemo {
     String str1;
     public void work(){
         str1="从来富贵都是梦";

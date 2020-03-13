@@ -1,6 +1,6 @@
 package edu.seu;
 
-public class WrapClassTest {
+public class WrapClassDemo {
     public void work(){
         Boolean bln= Boolean.TRUE;
         Byte b= new Byte((byte) 1);//装箱
