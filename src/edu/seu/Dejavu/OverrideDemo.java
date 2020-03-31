@@ -1,4 +1,4 @@
-package edu.seu;
+package edu.seu.Dejavu;
 
 class SuperClass {
     int a;

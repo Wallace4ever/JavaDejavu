@@ -1,4 +1,4 @@
-package edu.seu;
+package edu.seu.Dejavu;
 
 class UserException extends Exception{
     String myMsg="User defined exception.";

@@ -1,4 +1,4 @@
-package edu.seu;
+package edu.seu.Dejavu;
 import java.io.*;
 import java.net.*;
 import java.util.Scanner;

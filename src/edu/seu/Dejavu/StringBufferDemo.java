@@ -1,4 +1,4 @@
-package edu.seu;
+package edu.seu.Dejavu;
 
 public class StringBufferDemo {
     String str1;
