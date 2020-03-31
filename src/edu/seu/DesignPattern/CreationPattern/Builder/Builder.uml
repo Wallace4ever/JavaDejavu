@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>edu.seu.DesignPattern.CreationPattern.Builder</OriginalElement>
+  <nodes>
+    <node x="0.0" y="447.0">edu.seu.DesignPattern.CreationPattern.Builder.Engine</node>
+    <node x="212.26182432432438" y="517.3834459459459">edu.seu.DesignPattern.CreationPattern.Builder.Client</node>
+    <node x="261.0" y="285.0">edu.seu.DesignPattern.CreationPattern.Builder.EscapeTower</node>
+    <node x="0.0" y="285.0">edu.seu.DesignPattern.CreationPattern.Builder.AirShip</node>
+    <node x="281.0" y="0.0">edu.seu.DesignPattern.CreationPattern.Builder.AirShipBuilder</node>
+    <node x="281.0" y="125.0">edu.seu.DesignPattern.CreationPattern.Builder.MyAirShipBuilder</node>
+    <node x="33.5" y="0.0">edu.seu.DesignPattern.CreationPattern.Builder.AirShipDirector</node>
+    <node x="0.0" y="103.0">edu.seu.DesignPattern.CreationPattern.Builder.MyAirShipDirector</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="edu.seu.DesignPattern.CreationPattern.Builder.MyAirShipDirector" target="edu.seu.DesignPattern.CreationPattern.Builder.AirShipDirector">
+      <point x="0.0" y="-68.5" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="edu.seu.DesignPattern.CreationPattern.Builder.MyAirShipBuilder" target="edu.seu.DesignPattern.CreationPattern.Builder.AirShipBuilder">
+      <point x="0.0" y="-37.5" />
+      <point x="0.0" y="37.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7246022031823746" x="376.5" y="388.5" />
+  <SelectedNodes>
+    <node>edu.seu.DesignPattern.CreationPattern.Builder.Client</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
